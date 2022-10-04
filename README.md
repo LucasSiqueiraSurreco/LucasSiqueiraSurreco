@@ -1,7 +1,7 @@
 ## 👋 Hello there web traveler, my name is Lucas Siqueira Surreço and I'm a Software Engineering student and JavaScript developer!
 I love books, technology and coding (▀̿̿Ĺ̯̿▀̿ ̿)
 <div align="left"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSiqueiraSurreco&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSiqueiraSurreco&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
