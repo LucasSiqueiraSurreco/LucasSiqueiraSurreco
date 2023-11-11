@@ -1,4 +1,4 @@
-## 👋 Hey there web traveler, my name is Lucas and I'm a Software Engineering student and JavaScript developer!
+## 👋 Hey there web traveler, my name is Lucas and I'm a Software Engineering student and JavaScript backend developer!
 I love books, technology and coding (▀̿̿Ĺ̯̿▀̿ ̿)
 <div align="left"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSiqueiraSurreco&layout=compact&langs_count=7&theme=dark"/>
