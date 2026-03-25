@@ -14,7 +14,7 @@ I love books, technology, Linux, split keyboards, and coding (▀̿̿Ĺ̯̿▀̿
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Prisma" height="30" width="62" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-  <img align="center" alt="Nest" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png?20221211225055">
+  <img align="center" alt="Nest" height="40" width="40" src="https://camo.githubusercontent.com/a7e641cafa9be8769d70125792eb9b2c41e47a63f0d637d7debf293f28b91125/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667">
   <img align="center" alt="Fastify" height="70" width="80" src="https://fastify.dev/img/logos/fastify-white.svg">
 </div>
 
